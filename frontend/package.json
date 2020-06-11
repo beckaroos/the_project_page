@@ -22,6 +22,15 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "react-router-dom": "^5.2.0"
+    "axios": "^0.19.2",
+    "core-js": "^3.6.5",
+    "lodash": "^4.17.15",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-form": "^8.3.6",
+    "redux-thunk": "^2.3.0",
+    "regenerator-runtime": "^0.13.5"
   }
 }
